@@ -11,7 +11,7 @@ Controls the buzzer using an **NPN transistor** like 2N2222 or BC547.
 The transistor turns ON when the Arduino sends a **HIGH** signal.
 
 ### 🔸 [`pnp_version/`](pnp_version)
-Controls the buzzer using a **PNP transistor** like BC557.  
+Controls the buzzer using a **PNP transistor** like BC557.   
 The transistor turns ON when the Arduino sends a **LOW** signal.
 
 ---
