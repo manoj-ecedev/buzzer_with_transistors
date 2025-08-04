@@ -25,11 +25,4 @@ The transistor turns ON when the Arduino sends a **LOW** signal.
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).  
-Feel free to use, modify, and share it!
-
----
-
 🧠 Built by MANOJKUMAR | 🎓 ECE @ REC | 💡 Learning Embedded Systems
